@@ -1,4 +1,4 @@
-# Hey, I'm Anu 👋
+# Hey, I'm Somendra 👋
 
 Full Stack Developer building real products, not just tutorials — currently deep in the TypeScript/Next.js ecosystem, with a growing focus on Generative AI integration.
 
