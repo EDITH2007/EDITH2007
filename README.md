@@ -1,6 +1,4 @@
-# Hi there, I'm Somendra 👋
 
-**Full Stack Engineer** | TypeScript • React • Node.js
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Building+end-to-end+web+applications;Clean+code%2C+scalable+architecture;Always+shipping%2C+always+learning)
 
